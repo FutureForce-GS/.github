@@ -1,6 +1,6 @@
 # 🚀 FutureForce
 
-()[]
+<img src='/idea.png'>
 
 ## 🌱 Sobre
 
@@ -33,11 +33,25 @@ A plataforma será implementada como uma **API RESTful em Java**, priorizando es
 
 ***
 
-## 📞 Equipe
+## 👥 Equipe
 
-- João Victor Soave (RM557595)
-- Guilherme Araujo de Carvalho (RM558926)
-- Maria Alice Freitas Araújo (RM557516)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+<a href="https://github.com/Malice112" target="_blank" style="text-align: center; margin-right: 10px;">
+<img loading="lazy" src="https://avatars.githubusercontent.com/Malice112" width=120>
+<p style="font-size:min(2vh, 36px); margin-top: 10px;">Maria Alice</p>
+</a>
+
+<a href="https://github.com/jaoAprendiz" target="_blank" style="text-align: center; margin-right: 10px;">
+<img loading="lazy" src="https://avatars.githubusercontent.com/jaoAprendiz" width=120>
+<p style="font-size:min(2vh, 36px); margin-top: 10px;">João Victor Soave</p>
+</a>
+</div>
+
+<a href="https://github.com/guilhermearaujodec" target="_blank" style="text-align: center; margin-right: 10px;">
+<img loading="lazy" src="https://avatars.githubusercontent.com/guilhermearaujodec" width=120>
+<p style="font-size:min(2vh, 36px); margin-top: 10px;">Guilherme Araujo</p>
+</a>
+</div>
 
 ***
 
@@ -47,6 +61,10 @@ Acreditamos que o trabalho do futuro demanda soluções éticas, inclusivas e hu
 
 ***
 
-Fique à vontade para explorar nossos repositórios e acompanhar o desenvolvimento do projeto!
+## 🛡️ Licença
 
-🚀 **Juntos, construímos o futuro do trabalho e do bem-estar!**
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais informações.
+
+---
+
+### 🚀 FutureForce - **Juntos, construímos o futuro do trabalho e do bem-estar!**
