@@ -1,6 +1,6 @@
 # 🚀 FutureForce
 
-<img src='/idea.png'>
+<img src='idea.png'>
 
 ## 🌱 Sobre
 
